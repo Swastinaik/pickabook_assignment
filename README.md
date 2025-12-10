@@ -31,4 +31,4 @@ Finally, I opted for the Gemini model, which is recognized as a state-of-the-art
 - Adding the InstantID models via replicate if have access.
 - provide more control to user like providing the varieties of templates.
 - Use ControlNet or custom diffusion pipelines to blend the stylised face seamlessly into the illustration background.
-- 
+- Move from single-instance deployment to containerised microservices (Docker + Kubernetes/ECS) for better scaling.
